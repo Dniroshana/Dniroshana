@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Undergraduate | BIT (Hons) Networking And Mobile Computing**
+- 🌱 I’m currently learning **BIT (Hons) Networking And Mobile Computing**
 
 - 🧑‍🎓 I’m an Undergraduate at **Horizon Campus**
 
