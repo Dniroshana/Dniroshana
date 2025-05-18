@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dasun Niroshana</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<a  href="https://github.com/Dniroshana/Dniroshana/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vleft=true&width=1000&height=100&lines=Undergraduate+|+BIT+(Hons)+Networking+And+Mobile+Computing👨‍💻;Always+learning+new+things"></a>
+<a  href="https://github.com/Dniroshana/Dniroshana/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=%23C8BE25&size=25&center=true&vleft=true&width=1000&height=100&lines=Undergraduate+|+BIT+(Hons)+Networking+And+Mobile+Computing👨‍💻;Always+learning+new+things"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dniroshana&label=Profile%20views&color=0e75b6&style=flat" alt="dniroshana" /> </p>
 
 
