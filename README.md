@@ -1,6 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dasun Niroshana</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<a  href="https://github.com/Dniroshana/Dniroshana/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vleft=true&width=1000&height=100&lines=Undergraduate+|+BIT+(Hons)+Networking+And+Mobile+Computing👨‍💻;Always+learning+new+things"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dniroshana&label=Profile%20views&color=0e75b6&style=flat" alt="dniroshana" /> </p>
 
 
@@ -45,7 +46,7 @@
 </tr>
 </table>
 
-
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -78,8 +79,8 @@
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a>
     <a href="https://VSCode.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="react" width="50" height="50"/>
-      <a href="https://VisualStudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio" width="50" height="50"/>
+      <a href="https://VisualStudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio" width="50" height="50"/> 
      </p>
 
 ---
-
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
