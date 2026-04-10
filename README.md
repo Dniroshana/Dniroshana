@@ -34,8 +34,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Dniroshana&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  
    <img  title="" alt="Mark" src="https://github-readme-streak-stats.herokuapp.com/?user=Dniroshana&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
