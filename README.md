@@ -48,15 +48,40 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="https://twitter.com/dniroshana" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="dniroshana" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/dasun-niroshana-91a9962a0" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="dasun niroshana" height="50" width="50" /></a>
-<a href="https://facebook.com/dasun niroshana" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="dasun niroshana" height="50" width="50" /></a>
-<a href="https://instagram.com/dasun niroshana" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="dasun niroshana" height="50" width="50" /></a>
-  <a href="https://whatsapp.com/in/dasun niroshana" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000" alt="dasun niroshana" height="50" width="50" /></a>
-  <a href="https://telegram.com/in/dasun niroshana" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="dasun niroshana" height="50" width="50" /></a>
-  <a href="dasunniroshana8@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="dasun niroshana" height="50" width="50" /></a>
-<a href="https://github.com/Dniroshana" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" alt="dasun niroshana" height="40" width="40" /></a> </p>
+  <a href="https://twitter.com/dniroshana" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" height="45"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dasun-niroshana-91a9962a0" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="45"/>
+  </a>
+  
+  <a href="https://facebook.com/dasunniroshana" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" height="45"/>
+  </a>
+  
+  <a href="https://instagram.com/dasunniroshana" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="45"/>
+  </a>
+  
+  <a href="https://wa.me/947XXXXXXXX" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000" height="45"/>
+  </a>
+  
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="45"/>
+  </a>
+  
+  <a href="mailto:dasunniroshana8@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="45"/>
+  </a>
+  
+  <a href="https://github.com/Dniroshana" target="_blank">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" height="40"/>
+  </a>
+</p>
 
 ---
 
